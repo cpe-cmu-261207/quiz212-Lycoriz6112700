@@ -22,7 +22,7 @@ function App() {
         <h3 class="title is-3">ID Counter</h3>
         <p>{count}</p>
         <button onClick={() => setCount(count - 1)}>-</button>
-        <button onClick={() => setCount(count)}>reset</button>
+        <button onClick={() => setCount(ุ620612167)}>reset</button>
         <button onClick={() => setCount(count + 1)}>+</button>
       </div>
 
